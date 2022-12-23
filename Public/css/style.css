@@ -34,3 +34,7 @@
     text-decoration: none;
     color:  #666;;
 }
+
+.images {
+    max-width: 100%;
+}
